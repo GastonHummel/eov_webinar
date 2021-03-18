@@ -97,7 +97,7 @@ var Translations = {
       ]
     },
     {
-      label: 'Case Study 1',
+      label: 'American Family',
       states: [
         {
           cardId: 'd97be729',
@@ -106,7 +106,7 @@ var Translations = {
       ]
     },
     {
-      label: 'Case Study 2',
+      label: 'Blue Shield CA',
       states: [
         {
           cardId: '6b29f598',
@@ -115,7 +115,7 @@ var Translations = {
       ]
     },
     {
-      label: 'Case Study 3',
+      label: 'Security First',
       states: [
         {
           cardId: '1abf3b81',
