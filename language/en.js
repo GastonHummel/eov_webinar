@@ -50,6 +50,11 @@ var Translations = {
       card: 'b421402e',
       label: 'Schedule a Conversation',
       icon: 'contact'
+    },
+    button2: {
+      card: '159b098a',
+      label: 'Share',
+      icon: 'share'
     }
   },
 
